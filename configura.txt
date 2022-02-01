@@ -896,5 +896,9 @@
 
 </template>
 
+## Se realizaron algunas modificaciones
+add assets folder on public folder and into, folders plugins and dist
+
+
 
 	
